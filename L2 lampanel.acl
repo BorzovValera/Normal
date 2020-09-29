@@ -17,17 +17,8 @@ out r3,p7
 m:
 mov 1,r1
 system c
-system c
-system c
-system d
-system d
 system d
 system 3
-system 3
-system 3
-system 4
-system 4
-system 4
 system 6
 jnz m
 stop           
